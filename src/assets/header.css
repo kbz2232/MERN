@@ -1,0 +1,10 @@
+.header {
+
+    top: 0%;
+    position: fixed;
+    background-color: brown;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+
+}

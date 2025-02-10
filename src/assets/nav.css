@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.bg{
+    background-color: chocolate;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Topic{
+     gap: 40px;
+      display: flex; 
+      margin-right: 10px;
+
+}

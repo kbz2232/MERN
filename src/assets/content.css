@@ -1,0 +1,10 @@
+.content{
+
+    background-color: blue;
+    /* height: 500px; */
+    top: 100px;
+    bottom: 100px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
